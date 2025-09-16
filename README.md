@@ -10,6 +10,12 @@
 
 # 常用网站合集
 
+Markdown语法速查：[Markdown 教程](https://markdown.com.cn/)
+
+公式/文档识别：[SimpleTex主页——致力于提供先进的公式识别/文档识别解决方案](https://simpletex.cn/)
+
+协作设计平台：[Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网](https://www.canva.cn/)
+
 图片处理网站：[iLoveIMG | 图像文件在线编辑工具](https://www.iloveimg.com/zh-cn)
 
 PDF处理网站：[iLovePDF | 为PDF爱好者提供的PDF文件在线处理工具](https://www.ilovepdf.com/zh-cn)
